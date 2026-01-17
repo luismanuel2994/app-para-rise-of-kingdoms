@@ -1,0 +1,8 @@
+{
+  "name": "app para rise of kingdom",
+  "description": "Plataforma con asesor de voz IA para Rise of Kingdoms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
